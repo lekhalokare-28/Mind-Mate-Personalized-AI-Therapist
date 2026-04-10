@@ -1,0 +1,26 @@
+1. We are using gemini model for our chatbot, for which we use a personalized profile api key to access it.
+
+2. We are doing sentiment analysis to find the sentiment of the input text by the user.
+
+3. We have added voice input which uses a python library called speech_recognition. The user can switch to voice or text input whenever they need. 
+
+4. In the ai_therapist file, I have added personalized recommendations, a user tracker that keeps a track of your profile and asks you your username. And it also keeps a track of your conversations. 
+
+5. Suggests mind-full exercise to help divert the patient's mind.
+
+6. Suggests emergency service numbers if severe cases are detected. And also provides emergency service numbers based on the location provided (for eg: location: India)
+
+7. We are also using VADAR and distill roBERT model for more accurate sentiment analysis.
+
+8. We are detecting the mood of the patient whether positive, neutral or negative.
+
+9. The chatbot keeps a track of the previous conversations and answers accordingly.
+
+10. I have localized the chatbot, i.e., the chatbot will find the location of the user with the help of the IP address and would suggest helpline numbers when any sign of distress is detected.
+
+11. I have fine tuned the model to give brief yet appropriate answers.
+
+12. We have added a panic button, which when pressed will send a sms to the emergency contact number which was given by the user in the signup page.
+
+13. We have added a mood scale (from 1-10) in the journal page, which when selected, the mood data will get updated in the dashboard which has a weekly mood analysis graph. 
+

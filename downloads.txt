@@ -1,0 +1,25 @@
+-> Install Required Libraries
+
+pip install -q -U google-genai
+
+pip install google-generativeai transformers torch nltk textblob
+
+pip install geocoder
+
+pip install mysql-connector-python
+
+pip install fastapi uvicorn twilio python-dotenv
+
+py -m pip install nltk
+
+py -m pip install keyboard transformers speechrecognition torch geocoder
+
+-> Start FastAPI Backend
+uvicorn main:app --reload
+
+-> Start React Frontend
+npm start
+
+
+
+

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../chatbot github/AI_Personalised_Chatbot"
+		},
+		{
+			"name": "AI_Personalised_Chatbot_Backend-1",
+			"path": "../../chatbot github/AI_Personalised_Chatbot_Backend-1"
+		},
+		{
+			"name": "AI_FASTAPI",
+			"path": "../../chatbot github/AI_FASTAPI"
+		}
+	],
+	"settings": {}
+}

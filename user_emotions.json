@@ -1,0 +1,710 @@
+{
+    "saahil": [
+        {
+            "timestamp": "2025-03-21 16:50:58",
+            "emotion": "desire"
+        }
+    ],
+    "lekha": [
+        {
+            "timestamp": "2025-03-21 17:02:30",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-21 17:22:07",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-21 17:22:19",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-21 17:22:24",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2026-04-10 15:01:50",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2026-04-10 15:08:05",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2026-04-10 15:11:00",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2026-04-10 15:13:26",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2026-04-10 15:17:14",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2026-04-10 15:18:45",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2026-04-10 15:25:27",
+            "emotion": "disgust"
+        },
+        {
+            "timestamp": "2026-04-10 15:28:20",
+            "emotion": "neutral"
+        }
+    ],
+    "ria": [
+        {
+            "timestamp": "2025-03-23 01:16:44",
+            "emotion": "fear"
+        },
+        {
+            "timestamp": "2025-03-23 01:18:28",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-23 01:18:57",
+            "emotion": "disapproval"
+        },
+        {
+            "timestamp": "2025-03-23 01:19:09",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-23 01:19:28",
+            "emotion": "neutral"
+        }
+    ],
+    "Rakshit": [
+        {
+            "timestamp": "2025-03-23 08:58:09",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-23 09:00:21",
+            "emotion": "disappointment"
+        },
+        {
+            "timestamp": "2025-03-23 09:00:54",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-23 09:01:58",
+            "emotion": "caring"
+        },
+        {
+            "timestamp": "2025-03-23 09:02:30",
+            "emotion": "gratitude"
+        },
+        {
+            "timestamp": "2025-03-23 09:02:46",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-23 09:05:56",
+            "emotion": "approval"
+        },
+        {
+            "timestamp": "2025-03-23 09:06:26",
+            "emotion": "gratitude"
+        },
+        {
+            "timestamp": "2025-03-23 09:06:54",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-23 09:07:06",
+            "emotion": "neutral"
+        }
+    ],
+    "alan": [
+        {
+            "timestamp": "2025-03-23 13:01:59",
+            "emotion": "sadness"
+        }
+    ],
+    "rakshit": [
+        {
+            "timestamp": "2025-03-23 13:26:05",
+            "emotion": "neutral"
+        }
+    ],
+    "collen": [
+        {
+            "timestamp": "2025-03-24 09:26:47",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-24 09:27:22",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-24 09:27:47",
+            "emotion": "gratitude"
+        },
+        {
+            "timestamp": "2025-03-24 09:28:02",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-24 09:28:20",
+            "emotion": "annoyance"
+        },
+        {
+            "timestamp": "2025-03-24 09:28:50",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-24 09:29:24",
+            "emotion": "approval"
+        },
+        {
+            "timestamp": "2025-03-24 09:31:08",
+            "emotion": "amusement"
+        },
+        {
+            "timestamp": "2025-03-24 09:31:50",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-24 09:32:16",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-24 09:32:43",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-24 09:32:56",
+            "emotion": "gratitude"
+        },
+        {
+            "timestamp": "2025-03-24 09:33:03",
+            "emotion": "neutral"
+        }
+    ],
+    "hi": [
+        {
+            "timestamp": "2025-03-24 17:15:46",
+            "emotion": "fear"
+        }
+    ],
+    "lola": [
+        {
+            "timestamp": "2025-03-30 16:34:29",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-30 16:37:12",
+            "emotion": "disapproval"
+        },
+        {
+            "timestamp": "2025-03-30 16:38:03",
+            "emotion": "approval"
+        },
+        {
+            "timestamp": "2025-03-30 16:39:01",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-30 16:39:38",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-30 16:42:19",
+            "emotion": "amusement"
+        },
+        {
+            "timestamp": "2025-03-30 16:43:23",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-30 16:44:34",
+            "emotion": "curiosity"
+        },
+        {
+            "timestamp": "2025-03-30 16:45:26",
+            "emotion": "disapproval"
+        },
+        {
+            "timestamp": "2025-03-30 16:46:10",
+            "emotion": "fear"
+        },
+        {
+            "timestamp": "2025-03-30 16:46:40",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-30 16:47:08",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-30 20:55:23",
+            "emotion": "confusion"
+        },
+        {
+            "timestamp": "2025-03-30 20:56:14",
+            "emotion": "disappointment"
+        },
+        {
+            "timestamp": "2025-03-30 20:57:04",
+            "emotion": "curiosity"
+        },
+        {
+            "timestamp": "2025-03-30 20:59:11",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-30 21:00:05",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-30 21:01:16",
+            "emotion": "approval"
+        },
+        {
+            "timestamp": "2025-03-30 21:04:22",
+            "emotion": "love"
+        },
+        {
+            "timestamp": "2025-03-30 21:08:36",
+            "emotion": "approval"
+        },
+        {
+            "timestamp": "2025-03-30 21:21:29",
+            "emotion": "love"
+        },
+        {
+            "timestamp": "2025-03-31 14:24:20",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 14:24:47",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:25:01",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:25:19",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:25:46",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:25:57",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:26:25",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:26:57",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:31:51",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:32:25",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:32:49",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:33:09",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:33:46",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:38:55",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:39:10",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:42:04",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:42:21",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:47:52",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:48:10",
+            "emotion": "anger"
+        },
+        {
+            "timestamp": "2025-03-31 14:48:26",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:48:54",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:49:06",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:49:25",
+            "emotion": "anger"
+        },
+        {
+            "timestamp": "2025-03-31 14:49:44",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:50:51",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:51:04",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:51:20",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:51:49",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:52:07",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:52:53",
+            "emotion": "surprise"
+        },
+        {
+            "timestamp": "2025-03-31 14:53:21",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:53:42",
+            "emotion": "anger"
+        },
+        {
+            "timestamp": "2025-03-31 14:54:23",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 14:54:46",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 14:54:55",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 14:55:16",
+            "emotion": "anger"
+        },
+        {
+            "timestamp": "2025-03-31 14:55:35",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 14:56:03",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:56:34",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:57:06",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 14:59:14",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 17:58:59",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 17:59:30",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 20:13:15",
+            "emotion": "unknown"
+        },
+        {
+            "timestamp": "2025-03-31 20:13:24",
+            "emotion": "unknown"
+        },
+        {
+            "timestamp": "2025-03-31 20:18:34",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 20:18:45",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 20:18:59",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 20:19:12",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 20:21:14",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 20:21:36",
+            "emotion": "surprise"
+        },
+        {
+            "timestamp": "2025-03-31 20:22:05",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 20:22:27",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 20:22:41",
+            "emotion": "anger"
+        },
+        {
+            "timestamp": "2025-03-31 20:22:54",
+            "emotion": "anger"
+        },
+        {
+            "timestamp": "2025-04-03 01:34:24",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 01:39:52",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 01:40:12",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-04-03 01:40:51",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-04-03 01:41:07",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 01:42:56",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-04-03 01:44:08",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-04-03 01:44:40",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 01:45:15",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-04-03 02:03:42",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:03:55",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-04-03 02:04:08",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:05:00",
+            "emotion": "anger"
+        },
+        {
+            "timestamp": "2025-04-03 02:05:16",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-04-03 02:05:43",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:06:03",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:06:29",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:06:40",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:07:01",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:07:39",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-04-03 02:08:03",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:08:25",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:08:53",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-04-03 02:09:12",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-04-03 02:09:44",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:10:07",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:10:25",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-04-03 02:10:51",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-04-03 02:11:17",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-04-03 02:11:33",
+            "emotion": "neutral"
+        }
+    ],
+    "lek": [
+        {
+            "timestamp": "2025-03-31 15:03:54",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 15:05:22",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 15:05:52",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 15:06:52",
+            "emotion": "surprise"
+        },
+        {
+            "timestamp": "2025-03-31 15:07:46",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 15:08:46",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 15:09:40",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 15:10:17",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 15:10:41",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 15:20:19",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 15:23:14",
+            "emotion": "surprise"
+        }
+    ],
+    "andy": [
+        {
+            "timestamp": "2025-03-31 15:24:23",
+            "emotion": "surprise"
+        },
+        {
+            "timestamp": "2025-03-31 15:24:48",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 15:25:12",
+            "emotion": "joy"
+        }
+    ],
+    "mark": [
+        {
+            "timestamp": "2025-03-31 15:26:23",
+            "emotion": "joy"
+        },
+        {
+            "timestamp": "2025-03-31 15:26:54",
+            "emotion": "neutral"
+        },
+        {
+            "timestamp": "2025-03-31 15:28:26",
+            "emotion": "sadness"
+        },
+        {
+            "timestamp": "2025-03-31 15:32:29",
+            "emotion": "neutral"
+        }
+    ],
+    "": [
+        {
+            "timestamp": "2026-04-10 14:29:27",
+            "emotion": "neutral"
+        }
+    ],
+    "john": [
+        {
+            "timestamp": "2026-04-10 15:04:09",
+            "emotion": "neutral"
+        }
+    ]
+}
